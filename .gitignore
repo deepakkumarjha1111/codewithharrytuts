@@ -1,0 +1,5 @@
+*.log
+/dir/
+static/dir/
+db.txt
+db2.txt
